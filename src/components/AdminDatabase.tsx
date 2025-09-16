@@ -1,0 +1,1 @@
+export default function AdminDatabase(){return(<div>AdminDatabase</div>)}
